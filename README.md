@@ -1,3 +1,5 @@
+![Banner](https://link-to-your-banner-image.jpg)
+
 # 🌐 Data Analyst Portfolio - To Ngan
 
 Welcome to my **Data Analyst Portfolio**!  
@@ -6,49 +8,73 @@ You can visit the live portfolio here: [...]
 
 ---
 
-## 🚀 **About Me**
-Hi! I'm **Celine To**, a data enthusiast passionate about transforming raw data into meaningful insights to solve business problems.  
-I specialize in **EDA, Machine Learning, and interactive dashboards**, with strong skills in:
-- Python (pandas, NumPy, scikit-learn, matplotlib, seaborn)
-- SQL for data querying
-- Power BI & Tableau for dashboard design
-- Git/GitHub for version control
+# 👋 Hi, I'm Ngọc Ngân (Celine)
+
+🎯 **Data Analyst | Business Intelligence Analyst**
 
 ---
 
-## 📂 **Projects**
-
-### 1️⃣ [**HR Attrition Prediction**](https://celine1252.github.io/projects/hr-attrition.html)
-- **Goal:** Predict employee attrition using demographic and behavioral data.  
-- **Tech stack:** Python, pandas, scikit-learn, XGBoost, LightGBM.  
-- **Highlight:** Achieved **ROC-AUC 0.92** with XGBoost, helping HR identify employees at high risk of leaving.  
-- **Repo:** [View on GitHub](https://github.com/celine1252/Employee)
+### 🧩 About Me
+I’m an aspiring **Data Analyst** with 2 years of experience in **KPI tracking, business reporting, and performance analysis** for e-commerce operations.  
+I enjoy transforming raw data into actionable insights that drive business decisions and growth.  
+Currently, I’m enhancing my expertise in **SQL, Python, and Power BI** through hands-on projects and professional certifications.
 
 ---
 
-### 2️⃣ [**Bank Customer Churn Analysis**](https://celine1252.github.io/projects/bank-churn.html)
-- **Goal:** Analyze data from 10,000 bank customers to uncover patterns leading to churn.  
-- **Tech stack:** Python, SQL, Power BI.  
-- **Insights:**  
-  - Churn rate: **20.38%**  
-  - Female customers have **higher churn (25%)** compared to males (11.5%).  
-  - Customers with two products churn less (**8.2%**).  
-- **Repo:** [View on GitHub](https://github.com/celine1252/Bank-Customer-Churn)
+### 💼 Work Experience
+
+**E-Commerce Executive | Marou Chocolate JSC (2023–2025)**  
+- Analyzed weekly revenue and SKU performance data via D-Corp Keeper and Shopify, providing insights that supported business teams.  
+- Delivered KPI analyses in Excel that uncovered key trends, contributing to **+20% revenue growth** during Tet & Valentine campaigns.  
+- Collaborated with IT to validate Power BI dashboards, ensuring accurate tracking of conversion and retention metrics.  
+- Improved delivery partner efficiency by **18%** and reduced customer complaints by **10%**.
+
+**E-Retail Specialist | Marou Chocolate Co. (2022–2023)**  
+- Conducted campaign ROI analysis, driving **10–12% revenue uplift** in festive seasons.  
+- Used data insights to identify customer behavior patterns, resulting in **+15% sales growth**.  
 
 ---
 
-### 3️⃣ [**Personal Financial Snapshot**](https://celine1252.github.io/projects/financial-snapshot.html)
-- **Goal:** Build a dashboard to visualize personal finances, including income, expenses, and savings trends.  
-- **Tech stack:** Python, pandas, matplotlib, HTML/CSS.  
-- **Repo:** [View on GitHub](https://github.com/celine1252/Personal-Financial-Snapshot)
+### 📊 Featured Projects
+
+#### 🧾 [Personal Finance Dashboard (2025)](https://github.com/celine1252/Personal-Financial-Snapshot)
+- Analyzed 4 years of personal financial data and visualized insights in Power BI.  
+- Increased saving-to-income ratio from **29.2% → 47.3%** through spending optimization.  
+- **Tools:** Python, Power BI
+
+#### 🏦 [Bank Customer Churn Analysis (2025)](https://github.com/celine1252/Bank-Customer-Churn)
+- Analyzed **10,000+ customer records** to identify churn drivers and segments.  
+- Built an interactive dashboard in Power BI for stakeholder decision-making.  
+- **Tools:** SQL, Python, Power BI
+
+#### 👩‍💼 [Employee Attrition Prediction (2025)](https://github.com/celine1252/Employee)
+- Built **ML models (XGBoost, LightGBM, Random Forest)** achieving **87% recall** in predicting employee attrition.  
+- Delivered actionable retention strategies such as mentorship programs and career path mapping.  
+- **Tools:** Python (Scikit-learn), Feature Engineering, Predictive Modeling
 
 ---
 
-## 🛠 **Setup Locally**
-If you want to run this portfolio locally:
-```bash
-# Clone the repository
-git clone https://github.com/celine1252/celine1252.github.io.git
-cd celine1252.github.io
+### 🛠️ Tools & Skills
+`Python` `Pandas` `NumPy` `Scikit-learn`  
+`SQL` `Power BI` `Excel (Pivot, Power Query)`  
+`Google Sheets` `Data Visualization` `KPI Analysis`  
+`Analytical Thinking` `Problem Solving` `Communication`
 
-# Open index.html in your browser
+---
+
+### 🎓 Certifications
+- **Google Data Analytics Professional Certificate** – Coursera (2025)  
+- **Data Analyst Certificate** – MindX (2025)  
+- **Business Intelligence Analyst Certificate** – MindX (2025)  
+
+---
+
+### 🌐 Connect with Me
+📧 **Email:** thnn0125@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/nganto0125](https://www.linkedin.com/in/nganto0125/)  
+💻 **GitHub:** [github.com/celine1252](https://github.com/celine1252)  
+📍 **Location:** Ho Chi Minh City, Vietnam  
+
+---
+
+> *“Turning data into insights, and insights into action.”*
