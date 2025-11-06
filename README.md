@@ -1,4 +1,4 @@
-![Banner](https://link-to-your-banner-image.jpg)
+![Banner]([https://link-to-your-banner-image](https://www.pinterest.com/pin/54465476740949294/).jpg)
 
 # 🌐 Data Analyst Portfolio - To Ngan
 
