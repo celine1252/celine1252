@@ -1,4 +1,4 @@
-# 🌐 Data Analyst Portfolio - Celine To
+# 🌐 Data Analyst Portfolio - To Ngan
 
 Welcome to my **Data Analyst Portfolio**!  
 This website showcases my projects, skills, and experience in **data analytics, visualization, and machine learning**.  
