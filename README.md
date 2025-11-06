@@ -2,7 +2,7 @@
 
 Welcome to my **Data Analyst Portfolio**!  
 This website showcases my projects, skills, and experience in **data analytics, visualization, and machine learning**.  
-You can visit the live portfolio here: [https://celine1252.github.io/](https://celine1252.github.io/)
+You can visit the live portfolio here: [...]
 
 ---
 
