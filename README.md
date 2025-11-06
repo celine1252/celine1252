@@ -1,16 +1,11 @@
 
 
-# 🌐 Data Analyst Portfolio - To Ngan
+# 👋 Hi, I'm Ngọc Ngân (Celine)
+🎯 **Data Analyst | Business Intelligence Analyst**
 
 Welcome to my **Data Analyst Portfolio**!  
 This website showcases my projects, skills, and experience in **data analytics, visualization, and machine learning**.  
 You can visit the live portfolio here: [...]
-
----
-
-# 👋 Hi, I'm Ngọc Ngân (Celine)
-
-🎯 **Data Analyst | Business Intelligence Analyst**
 
 ---
 
